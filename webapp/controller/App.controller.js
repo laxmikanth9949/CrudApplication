@@ -16,7 +16,7 @@ sap.ui.define([
 					delay : 0
 				});
 				this.setModel(oViewModel, "appView");
-
+				// Master Detail Just Commemnted Here this Line for Git Uploading.
 				fnSetAppNotBusy = function() {
 					oViewModel.setProperty("/busy", false);
 					oViewModel.setProperty("/delay", iOriginalBusyDelay);

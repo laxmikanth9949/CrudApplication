@@ -7,7 +7,4 @@
 	<App id="app"
 		 busy="{appView>/busy}"
 		 busyIndicatorDelay="{appView>/delay}"/>
-		 
-		 
-
 </mvc:View>
